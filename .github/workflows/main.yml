@@ -1,5 +1,5 @@
 name: Deploy DotNet project to Azure Function App
-https://github.com/jordyvaneijk/fanatec-stocknotifier/settings
+
 on:
   [push]
 
